@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="pinang" />
+    <string name="papeda" />
+    <string name="sabeta" />
+
+
+    <string name="PINANG" >
+Pinang Papua adalah buah khas Papua yang merupakan bagian dari tradisi mengunyah turun-temurun.
+    </string>
+
+    <string name="PAPEDA" >
+Papeda adalah makanan khas Papua yang terbuat dari tepung sagu. Papeda memiliki tekstur lengket dan kenyal, serta berwarna putih bening.
+        Papeda biasanya disajikan dengan ikan, sayur, atau saus khas Papua.
+    </string>
+
+    <string name="SABETA" >
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+    </string>
+
+
+    <string name="makanan_khas_papua">makanan_khas_papua</string>
+    <string name="asal_daerah">asal daerah</string>
+    <string name="todo">TODO</string>
+    <string name="papua">Papua</string>
+</resources>
