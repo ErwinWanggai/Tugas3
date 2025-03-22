@@ -15,8 +15,7 @@ class LoginActivity : AppCompatActivity() {
 
         // Mengatur aksi klik text link untuk berpindah ke halaman Reset Password
         binding.txtForgetPass.setOnClickListener {
-            val intent = Intent(this, ResetPassword::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, ResetPassword::class.java))
         }
 
         // Mengatur aksi klik tombol login untuk berpindah ke halaman Home
