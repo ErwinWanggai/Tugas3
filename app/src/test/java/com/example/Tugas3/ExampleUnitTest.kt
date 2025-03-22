@@ -1,4 +1,4 @@
-package com.example.UTS
+package com.example.Tugas3
 
 import org.junit.Test
 

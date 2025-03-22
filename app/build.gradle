@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace "com.example.UTS"
+    namespace "com.example.Tugas3"
     compileSdk 35
 
     defaultConfig {
@@ -28,8 +28,9 @@ android {
         jvmTarget = '1.8'
     }
 
-    viewBinding {
-        enabled = true
+    buildFeatures {
+        viewBinding = true
+        buildConfig = true
     }
 }
 

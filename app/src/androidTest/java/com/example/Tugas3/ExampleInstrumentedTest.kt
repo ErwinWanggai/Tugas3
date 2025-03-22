@@ -1,4 +1,4 @@
-package com.example.UTS
+package com.example.Tugas3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

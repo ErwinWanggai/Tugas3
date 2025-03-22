@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Tugas2"
+rootProject.name = "Tugas3"
 include ':app'
