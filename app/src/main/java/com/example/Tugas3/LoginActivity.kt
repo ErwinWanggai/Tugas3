@@ -20,7 +20,7 @@ class LoginActivity : AppCompatActivity() {
 
         // Mengatur aksi klik tombol login untuk berpindah ke halaman Home
         binding.btnLogin.setOnClickListener {
-            val intent = Intent(this, HomeActivity::class.java)
+            val intent = Intent(this, RecyclerviewsActivity::class.java)
             startActivity(intent)
         }
 
